@@ -197,7 +197,7 @@ VALUES
 (2),
 (3)
 
-SELECT product_id
+SELECT * product_id
 FROM orders
 WHERE product_id = 1;
 
